@@ -1,9 +1,6 @@
-# Image Processing Assignment 1
-
-## Intensity Transformation 
-
-This Assignment is based on openCV-python by Dr.Ranga Rodrigo
+# Image Processing Assignments
 
 **Assingment 1** : Intensity Transformations
 **Assingment 2** : Spartial Filters
-
+**Assingment 2** : Fitting
+**Assingment 2** : CNN
